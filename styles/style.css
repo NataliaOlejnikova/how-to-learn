@@ -60,8 +60,8 @@ z-index:2;
  position: absolute;
  right:0;
  top:64px;
- width: 768px;
-  height:768px;
+ height: 568px;
+  width: 568px;
   background-color:#2f80ed;
   z-index:0; 
 }
@@ -77,10 +77,7 @@ z-index:2;
   z-index: 1;
 }
 
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
+
 .description
 {
   display:flex;
@@ -268,7 +265,7 @@ margin: auto;
   font-size: 24px;
   color: white;
   font-weight: normal;
-  z-index:2
+  z-index:2;
 }
 .table_theme_dark
 {
@@ -352,5 +349,5 @@ margin: auto;
   color: white;
   margin-right: 0;
   margin-top: 80px;
-  z-index:2
+  z-index:2;
 }
