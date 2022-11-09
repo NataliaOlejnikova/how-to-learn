@@ -48,8 +48,8 @@
   position: absolute;
   width: 388px;
   left: 64px;
-margin-top: 0;
-margin-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
@@ -80,7 +80,7 @@ margin-bottom: 0;
   margin-left: auto;
   margin-right: 0;
   z-index: 1;
-  object-fit:cover;
+  object-fit: cover;
 }
 
 
@@ -192,8 +192,8 @@ margin-bottom: 0;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
-  margin-top:0;
-  margin-bottom:0;
+  margin-top: 0;
+  margin-bottom: 0;
 
 }
 
@@ -201,8 +201,8 @@ margin-bottom: 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  margin-top:0;
-  margin-bottom:0;
+  margin-top: 0;
+  margin-bottom: 0;
   padding-top: 20px;
 
 }
@@ -257,15 +257,16 @@ margin-bottom: 0;
   padding: 90px 0 90px;
   position: relative;
   overflow: hidden;
-  z-index:1;;
+  z-index: 1;
 }
+
 .section-title_theme_dark {
   color: white;
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600px;
   margin-bottom: 0;
-  z-index:2;
+  z-index: 2;
 }
 
 .section-subtitle_theme_dark {
@@ -273,8 +274,9 @@ margin-bottom: 0;
   font-size: 24px;
   color: white;
   font-weight: normal;
-  z-index: index 2;;
+  z-index: index 2;
 }
+
 .kaufman__triangle {
   position: absolute;
   background-image: url("../images/kaufman-triangle.svg");
@@ -282,8 +284,8 @@ margin-bottom: 0;
   height: 877px;
   background-size: cover;
   top: 0;
-  right:-210px;
-  z-index:-1;
+  right: -210px;
+  z-index: -1;
 }
 
 
@@ -314,7 +316,7 @@ margin-bottom: 0;
   min-height: 350px;
   background-color: #1f1f1f;
   color: white;
-  
+
 }
 
 .footer__columns {
@@ -324,20 +326,20 @@ margin-bottom: 0;
 }
 
 .footer__column_content_copyright {
-  position: relative;
-  display: flex;
+  position:relative;
+  display:flex;
   flex-direction: column;
   justify-content: space-between;
-  flex-basis: 711px; 
+  flex-basis: 711px;
   padding-top: 60px;
   padding-bottom: 40px;
 
 }
 
 .logo_place_footer {
-  width:228px;
-  height:32px;
-  padding-top:0;
+  width: 228px;
+  height: 32px;
+  padding-top: 0;
 }
 
 .footer__author {
@@ -346,8 +348,8 @@ margin-bottom: 0;
   font-size: 18px;
   font-weight: normal;
   padding-top: 18px;
-  padding-bottom:18px;
-margin:0;
+  padding-bottom: 18px;
+  margin: 0;
 }
 
 .footer__column-heading {
@@ -355,6 +357,7 @@ margin:0;
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
+  padding-top: 60px;
 }
 
 .footer__column-link {
@@ -369,7 +372,7 @@ margin:0;
 
 .footer__column-links {
   margin-bottom: 16px;
-  
+
 }
 
 .footer__social-icon {
@@ -377,9 +380,7 @@ margin:0;
   height: 16px;
   margin-right: 10px;
 }
-.footer__column-heading {
-  padding-top: 60px;
-}
+
 .table__cell_theme_dark {
   width: 200px;
   color: white;
