@@ -1,0 +1,5 @@
+.cards__item {
+    display:inline-block;
+    list-style: none;
+    width: 240px;
+  }
